@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -T /bin/ls __ls__
+symlink /bin/ls __ls__
